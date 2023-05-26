@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Access app at http://localhost:8372"
+
+python3 -m http.server 8372
